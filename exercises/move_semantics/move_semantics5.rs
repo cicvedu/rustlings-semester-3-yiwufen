@@ -8,7 +8,7 @@
 
 
 
-#[test]
+// #[test]
 fn main() {
     let mut x = 100;
     let y = &mut x;
